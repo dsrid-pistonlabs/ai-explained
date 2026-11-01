@@ -1,36 +1,28 @@
 ---
 {
   "title": "A clear title that answers a reader's question",
-  "date": "2026-10-01",
-  "event": "Month and year of the event",
+  "date": "2026-11-01",
+  "event": "Date or date range when the event happened",
   "category": "New developments",
-  "summary": "One sentence explaining why this is worth understanding."
+  "summary": "One sentence explaining why this is worth understanding.",
+  "icon": "agent",
+  "order": 4
 }
 ---
-## In a minute
-
-The short version, in one paragraph.
-
 ## What happened?
 
-Explain the incident, announcement or discovery. Link to a dated primary source using [source title](https://example.org). Replace this example link before publishing.
-
-## What does that actually mean?
-
-Define unfamiliar terms. Distinguish a demonstration, a claim and independent evidence.
+Explain the event in plain language. Link to a reliable source.
 
 ## So what?
 
-What changes for an ordinary person? What does not change?
+Explain why it matters in everyday life. Distinguish what is confirmed from what is still unclear.
 
-## Where does AI fit?
+## What can you do?
 
-Explain the documented connection, or say if none is established.
+Give practical, specific steps for the reader. Avoid implying that people are responsible for preventing incidents they cannot control.
 
-## One thing to take away
+## Sources
 
-A useful question or small practical action.
+Link to sources a reader can check, preferably a primary source and a credible independent explainer.
 
-## What is still unclear?
-
-Explain limits, uncertainty and what evidence might change the conclusion.
+Keep the entire entry—including headings and links—under 400 words. `event` is shown beside the title; `date` records the last factual review. Icons: `government`, `agent`, or `deepfake`. Use a unique positive `order` to place the entry on the page.
